@@ -12,3 +12,14 @@ console.log(myName)
 // console.log("Moises Emanuel Ramirez")
 
 // console.log("My favorite food currently is Pho.")
+
+console.log('Supercalifragilisticexpialidocious'.length);
+
+let score= 2;
+
+console.log (score+10)
+console.log (typeof score)
+
+let bigInterger = 9007199254740998n
+
+console.log (typeof bigInterger)
